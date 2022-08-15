@@ -435,3 +435,14 @@ nav img{
     padding-right: 0;
     border-right: none;
 }
+::-webkit-scrollbar{
+  width: 20px;
+  height: 20px;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(to bottom,#ff850a,#ff3474);
+  border-radius: 50px;
+}
+::-webkit-scrollbar-track{
+  background: #474747;
+}
