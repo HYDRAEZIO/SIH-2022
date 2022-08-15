@@ -440,7 +440,7 @@ nav img{
   height: 20px;
 }
 ::-webkit-scrollbar-thumb{
-  background: linear-gradient(to bottom,#ff850a,#ff3474);
+  background: linear-gradient(to bottom,#ededed,#5cbaee);
   border-radius: 50px;
 }
 ::-webkit-scrollbar-track{
